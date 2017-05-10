@@ -1,0 +1,6 @@
+cache :缓存目录，存放缓存后文件
+templates:模板文件目录
+templates_c:编译文件目录
+demo.php :测试模板引擎DEMO
+MiniSmarty.class.php ：模板引擎入口类
+MiniSmarty_Compile.class.php：模板引擎解析器类
